@@ -1,5 +1,5 @@
 # fcc_sms_text_classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9z2Xl-qNdRWQ0ebiVGPZCl6L5g7TPah#scrollTo=J9tD9yACG6M9)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GMVr-03trflANaseEAJWZiWxBz8qgt-u)
 
 This repository contains my solution to the FreeCodeCamp challenge 'Neural Network SMS Text Classifier'.  
 
